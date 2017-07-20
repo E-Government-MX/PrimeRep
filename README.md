@@ -1,4 +1,4 @@
-# What is This Reporitory intender for
+# The E-Gov Project
 Just to start a blank canvas for a brainstorm about what e-government should do and how the use of an open source community mixed with emerging technologies at reach of anyone (i.e. Machine learning, blockchain, github itself :) ) cna help us to finally have the government we want, decentralized systems and empower citizens to be owners of their taxes, their production and the ideas that may lead to the generation of a self-sustainable government without intermediate or personal intersts. 
 
 I am thinking so far of a few:
